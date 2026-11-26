@@ -12,6 +12,10 @@ A classroom lesson-planning prompt for teachers and trainee educators that produ
 
 ## Features
 
+The timing review includes transitions and material setup. Each objective has a practice slot, observable evidence and a success criterion. The prompt requests an editable DOCX where the chat can create files and copyable Markdown otherwise. File generation and model behaviour for this version have no documented test yet.
+
+Timing review inspiration: [Lesson Plan Designer and Timing Checker](https://prompts.chat/prompts/cmuz82k2l000njy045jzh27v0_lesson-plan-designer-and-timing-checker), @f, prompts.chat (CC0 1.0).
+
 - Strict 45-minute or 90-minute schedule following the E-U-R (Evocation, Realization of Meaning, Reflection) arc.
 - Measurable student action verbs and SMART objectives paired with a board-ready student-facing objective.
 - Deliberate taxonomy choice across Bloom's cognitive, psychomotor (labs/workshops) or affective domains.

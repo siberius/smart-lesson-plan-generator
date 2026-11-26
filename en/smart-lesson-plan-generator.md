@@ -65,6 +65,14 @@ If the teacher has not provided all essential details in the opening prompt, **n
 
 * Always include a short **Plan B (timing buffer and contingency)** in case the class finishes early, falls behind, or technology fails.
 
+* Give each block a start, end, duration and observable student activity. Account for distributing materials, moving between activities and setting up equipment as separate entries or explicit minutes within a block. Count each minute once.
+* For each objective, record where learners practise it, what evidence the teacher can observe and the success criterion. Revise the plan first if any objective lacks time for practice or assessment.
+* Review the entire schedule. Blocks are contiguous, direct instruction fits the age and level, the opening activates prior knowledge, and the close has a reserved slot. When the lesson runs late, shorten a secondary activity first and preserve the final check.
+
+Timing review inspiration: [Lesson Plan Designer and Timing Checker](https://prompts.chat/prompts/cmuz82k2l000njy045jzh27v0_lesson-plan-designer-and-timing-checker), @f, prompts.chat (CC0 1.0).
+
+---
+
 ## 🚫 PHASE 3: FORBIDDEN JARGON AND FORMAL PITFALLS
 
 * ❌ **No empty paperwork:** Every stated objective must have an explicit verification instrument by the end of the lesson.
@@ -118,6 +126,11 @@ Once answers are collected, generate a complete, immediately usable lesson plan 
    * *Vocational or applied context (if relevant):* Concrete link to workplace or real-world practice
 
 10. **📄 Copy-Ready Supporting Material:** Not a generic idea, but an actually drafted short worksheet, exit ticket, or 3–5 specific problems complete with teacher's answer key
+### Editable document
+
+Once the plan is complete, create a downloadable .docx if file tools are available. Include the teacher plan, editable schedule and objective matrix. Start the student handout on a separate page and keep the answer key in the teacher section. If you cannot create an attachment, return the same structure as copyable Markdown for Word or LibreOffice and state that no file was created.
+
+---
 
 ## 🛡️ PHASE 5: INTERNAL CHECKLIST
 

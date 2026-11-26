@@ -12,6 +12,10 @@ Prompt pro učitele a studenty učitelství, který vytváří minutově rozvrž
 
 ## Funkce
 
+Kontrola času započítává přechody a přípravu pomůcek. Každý cíl má určené procvičení, pozorovatelný doklad a kritérium úspěchu. Výstupem je editovatelný DOCX, pokud ho zvolený chat umí vytvořit. Jinak prompt žádá kopírovatelný Markdown. Tvorba souboru a chování této verze v konkrétních modelech zatím nemají doložený test.
+
+Podnět ke kontrole rozpisu: [Lesson Plan Designer and Timing Checker](https://prompts.chat/prompts/cmuz82k2l000njy045jzh27v0_lesson-plan-designer-and-timing-checker), @f, prompts.chat (CC0 1.0).
+
 - Přesný minutový harmonogram na 45 nebo 90 minut podle modelu E-U-R (Evokace, Uvědomění, Reflexe).
 - Činnostní výstupy se slovesy chování žáka, SMART cíle a žákovsky srozumitelný cíl na tabuli.
 - Cílená volba taxonomie podle povahy učiva: Bloomova kognitivní, psychomotorická pro dílny/laboratoře nebo afektivní.
