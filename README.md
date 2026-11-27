@@ -2,7 +2,11 @@
 
 > Article and context on Vibemaker: [Structured Lesson Plan Generator](https://vibemaker.cz/clanek/generator-vyukovych-priprav-rvp/)
 
-[![Structured Lesson Plan Generator](docs/nahled.gif)](https://vibemaker.cz/clanek/generator-vyukovych-priprav-rvp/)
+<p align="center">
+  <a href="https://vibemaker.cz/clanek/generator-vyukovych-priprav-rvp/">
+    <img src="docs/nahled.gif" alt="Structured Lesson Plan Generator">
+  </a>
+</p>
 
 [Česky](README.cs.md)
 

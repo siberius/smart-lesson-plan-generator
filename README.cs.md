@@ -2,7 +2,11 @@
 
 > Online článek a kontext na Vibemaker: [Generátor výukových příprav v souladu s RVP](https://vibemaker.cz/clanek/generator-vyukovych-priprav-rvp/)
 
-[![Generátor výukových příprav v souladu s RVP](docs/nahled.gif)](https://vibemaker.cz/clanek/generator-vyukovych-priprav-rvp/)
+<p align="center">
+  <a href="https://vibemaker.cz/clanek/generator-vyukovych-priprav-rvp/">
+    <img src="docs/nahled.gif" alt="Generátor výukových příprav v souladu s RVP">
+  </a>
+</p>
 
 [English](README.md)
 
