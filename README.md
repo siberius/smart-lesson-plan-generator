@@ -1,5 +1,9 @@
 # Smart Prompt: Structured Lesson Plan Generator
 
+> Article and context on Vibemaker: [Structured Lesson Plan Generator](https://vibemaker.cz/clanek/generator-vyukovych-priprav-rvp/)
+
+[![Structured Lesson Plan Generator](docs/nahled.gif)](https://vibemaker.cz/clanek/generator-vyukovych-priprav-rvp/)
+
 [Česky](README.cs.md)
 
 A classroom lesson-planning prompt for teachers and trainee educators that produces minute-by-minute 45- or 90-minute lesson plans using the E-U-R model, measurable student action verbs and ready-to-use materials.

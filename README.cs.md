@@ -1,5 +1,9 @@
 # Smart Prompt: Generátor výukových příprav na hodinu (v souladu s RVP)
 
+> Online článek a kontext na Vibemaker: [Generátor výukových příprav v souladu s RVP](https://vibemaker.cz/clanek/generator-vyukovych-priprav-rvp/)
+
+[![Generátor výukových příprav v souladu s RVP](docs/nahled.gif)](https://vibemaker.cz/clanek/generator-vyukovych-priprav-rvp/)
+
 [English](README.md)
 
 Prompt pro učitele a studenty učitelství, který vytváří minutově rozvržené přípravy na 45minutovou nebo 90minutovou vyučovací hodinu podle modelu E-U-R s činnostními výstupy, Plánem B a hotovým pracovním materiálem.
